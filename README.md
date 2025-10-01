@@ -104,10 +104,10 @@ CGPA: 8.0 (till 6th semester)
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30" height="30" />
   </a>
 
-  <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/pkrcode" target="blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/32/ffffff/external-codechef-a-competitive-programming-community-logo-shadow-tal-revivo.png" width="30" height="30" />
-  </a>
+ <!-- CodeChef -->
+<a href="https://www.codechef.com/users/pkrcode" target="blank">
+  <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" width="35" height="35" alt="CodeChef" />
+</a>
 
   <!-- GeeksforGeeks -->
   <a href="https://auth.geeksforgeeks.org/user/pkrcode/profile" target="blank">
