@@ -105,7 +105,7 @@ CGPA: 8.0 (till 6th semester)
   </a>
   <!-- Codeforces -->
 <a href="https://codeforces.com/profile/pkrcode" target="blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Codeforces_logo.svg" width="80" height="30" />
+  <img src="https://codeforces.org/s/77137/images/codeforces-sponsored-by-ton.png" width="80" height="30" />
 </a>
 
  <!-- CodeChef -->
