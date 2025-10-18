@@ -103,7 +103,10 @@ CGPA: 8.0 (till 6th semester)
   <a href="https://leetcode.com/u/pkrcode" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30" height="30" />
   </a>
-
+  <!-- Codeforces -->
+<a href="https://codeforces.com/profile/pkrcode" target="blank">
+  <img src="https://sta.codeforces.com/s/42184/images/codeforces-logo-with-text.png" width="80" height="30" />
+</a>
  <!-- CodeChef -->
 <a href="https://www.codechef.com/users/pkrcode" target="blank">
   <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" width="35" height="35" alt="CodeChef" />
