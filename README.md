@@ -110,12 +110,12 @@ CGPA: 8.0 (till 6th semester)
 
  <!-- CodeChef -->
 <a href="https://www.codechef.com/users/pkrcode" target="blank">
-  <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" width="60" height="60" alt="CodeChef" />
+  <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" width="100" height="60" alt="CodeChef" />
 </a>
 
   <!-- GeeksforGeeks -->
   <a href="https://auth.geeksforgeeks.org/user/pkrcode/profile" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="60" height="60" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="80" height="60" />
   </a>
 </p>
 
