@@ -20,7 +20,7 @@
 ## 🏫 Education
 **B.Tech in Electronics and Communication Engineering**  
 Indian Institute of Information Technology, Manipur (Nov 2022 – June 2026)  
-CGPA: 8.0 (till 6th semester)
+CGPA: 7.96 (till 6th semester)
 
 ---
 
