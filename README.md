@@ -82,18 +82,22 @@ CGPA: 7.96 (till 6th semester)
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkrcode&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pkrcode&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pkrcode&layout=compact&theme=radical)
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pkrcode&show_icons=true&theme=radical" alt="Praveen's GitHub stats" />
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=pkrcode&theme=radical" alt="GitHub Streak" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pkrcode&layout=compact&theme=radical" alt="Top Languages" />
 
 </div>
 
 ---
-
 
 ## Connect with Me
 <p align="left">
