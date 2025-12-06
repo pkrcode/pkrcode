@@ -12,8 +12,7 @@
 - Ask me about **React, Node.js, Firebase, AI/ML, Verilog**
 - Reach me at **praveenraj786420@gmail.com**
 - All of my projects are available on [GitHub](https://github.com/pkrcode)
-- Know about my experiences: [Resume](https://github.com/pkrcode/pkrcode/blob/main/myResumeCP.pdf)  
-- Fun fact: *I think I am funny 😄*
+- Know about my experiences: [Resume](https://drive.google.com/file/d/1zFC3GS8n3neOuknl0YpBgw4urOzMuvyQ/view?usp=drive_link)  
 
 ---
 
@@ -44,7 +43,7 @@ CGPA: 7.96 (till 6th semester)
 
 ---
 
-## 🚀 Projects
+## Projects
 
 🔹 **CodeBattle** – Gamified DSA Arena  
    → 100+ questions • 1v1 battles • real-time leaderboard  
@@ -64,7 +63,7 @@ CGPA: 7.96 (till 6th semester)
    
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Languages:** C++, Python, JavaScript, TypeScript  
 **Frontend:** HTML5, CSS3, React, Tailwind CSS  
@@ -75,24 +74,27 @@ CGPA: 7.96 (till 6th semester)
 
 ---
 
-## 🏆 Achievements
+## Achievements
 - **Top 5 Finalist – Smart India Hackathon 2024** (Ship Routing Optimization AI System)  
 - Solved **100+ DSA Problems**: 50+ on LeetCode, 30+ on CodeChef, 20+ on GFG  
 - Lead – **YouTube Club, IIIT Senapati**
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pkrcode&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pkrcode&theme=radical" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkrcode&layout=compact&theme=radical" alt="top langs" />
-</p>
+<div align="center">
+
+![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkrcode&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pkrcode&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pkrcode&layout=compact&theme=radical)
+
+</div>
 
 ---
 
-## 🌍 Connect with Me
+
+## Connect with Me
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/praveenk-dev" target="blank">
@@ -126,7 +128,7 @@ CGPA: 7.96 (till 6th semester)
 
 ---
 
-## ☕ Support Me
+## Support Me
 <p>
   <a href="https://www.buymeacoffee.com/pkrcode">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
