@@ -1,19 +1,19 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
+<h1 align="center">Hi, I'm Praveen Kumar</h1>
 <h3 align="center">Software Developer | Full Stack Developer | AI & Cloud Enthusiast | VLSI Innovator</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/pkrcode/pkrcode/main/assets/coding.gif" />
 
-- 🔭 I’m currently working on **AutomnX** and **Low-Latency Trading Engine (VLSI + Finance)**
-- 👯 I’m looking to collaborate on **AI + Web + Cloud + VLSI acceleration projects**
-- 🤝 I’m looking for help with **Hybrid AI-based Personal Assistant**
-- 🌱 I’m currently learning **Advanced React, Cloud, and Cadence EDA Tools**
-- 💬 Ask me about **React, Node.js, Firebase, AI/ML, Verilog**
-- 📫 Reach me at **praveenraj786420@gmail.com**
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/pkrcode)
-- 📄 Know about my experiences: [Resume](https://github.com/pkrcode/pkrcode/blob/main/myResumeCP.pdf)  
-- ⚡ Fun fact: *I think I am funny 😄*
+- I’m currently doing internship in **Infosys Springboard** and working on project **Campus Event Hub**
+- I’m looking to collaborate on **AI + Web + Cloud + VLSI acceleration projects**
+- I’m looking for help with **Hybrid AI-based Personal Assistant**
+- I’m currently learning **Advanced React, Cloud, and Cadence EDA Tools**
+- Ask me about **React, Node.js, Firebase, AI/ML, Verilog**
+- Reach me at **praveenraj786420@gmail.com**
+- All of my projects are available on [GitHub](https://github.com/pkrcode)
+- Know about my experiences: [Resume](https://github.com/pkrcode/pkrcode/blob/main/myResumeCP.pdf)  
+- Fun fact: *I think I am funny 😄*
 
 ---
 
@@ -26,37 +26,42 @@ CGPA: 7.96 (till 6th semester)
 
 ## 💼 Experience
 
+**Edunet Foundation – Internship**
+*Frontend Web Development | Remote, India | August – September 2025*
+- Built responsive UI components using HTML, CSS & JavaScript.
+- Worked with Flexbox/Grid layouts to enhance UI responsiveness.
+- Improved user experience and accessibility in web pages.
+
+**IBM SkillsBuild – Virtual Internship**  
+*AI & Cloud Technologies | Remote, India | July – August 2025*  
+- Built AI models, worked on RAG Labs, and deployed cloud projects using IBM Cloud.  
+- Collaborated on GitHub-based projects and gained industry workflow exposure.
+
 **Bharat Heavy Electricals Limited (BHEL) – Industrial Training**  
 *Power System and CNC Automation | Varanasi, India | June – July 2025*  
 - Hands-on experience with CNC machines, PLCs, and industrial power systems.  
 - Gained practical exposure to automation workflows.
 
-**IBM SkillsBuild – Virtual Internship**  
-*AI & Cloud Technologies | Remote | July – August 2025*  
-- Built AI models, worked on RAG Labs, and deployed cloud projects using IBM Cloud.  
-- Collaborated on GitHub-based projects and gained industry workflow exposure.
-
 ---
 
 ## 🚀 Projects
 
-### 🎮 [CodeBattle](https://github.com/pkrcode/CodeBattle) | [Live](https://code-battle-ten.vercel.app/)  
-*React, TypeScript, Node.js, Express, Firebase, Tailwind CSS, Docker, Vercel, Render*  
-- Gamified competitive programming platform with **100+ DSA problems** & **multi-language support**.  
-- Implemented aptitude system with 30+ topics and 4 difficulty modes.  
-- Developed 1v1 battle system with score scaling & real-time leaderboards.
+🔹 **CodeBattle** – Gamified DSA Arena  
+   → 100+ questions • 1v1 battles • real-time leaderboard  
+   Tech: React, TS, Firebase, Node, Tailwind
 
-### 🤖 [NextGen Engineer AI](https://github.com/pkrcode/NextGen-Engineer-AI) | [Live](https://nextgen-engineer-egzzo8qbn-praveen-kumars-projects-81ba3472.vercel.app/)  
-*MERN Stack, Socket.IO, Tailwind, Google Gemini API*  
-- AI-powered career platform with **17+ engineering roles**, **24 skill assessments**, & mentorship chat.  
-- Deployed on Vercel with **real-time collaboration boards** & MongoDB Atlas.
+🔹 **Revisify – AI Study Companion**  
+   → RAG Chat • Quiz Gen • PDF Knowledge Base  
+   Tech: LangChain, Gemini API, MongoDB, Tailwind
 
-### 🚢 [Ship Routing Optimization](https://github.com/pkrcode/ShipRoutAI)  
-*Python, Pygame, Q-Learning, A*, NumPy, Matplotlib*  
-- AI-based ship routing system using **A* + Q-Learning** for maritime logistics.  
-- Optimized for fuel efficiency, wind & ocean currents, and environmental factors.  
-- Top 5 **Finalist at Smart India Hackathon 2024**.
+🔹 **NextGen Engineer AI** – Career Growth Platform  
+   → AI Mentor • Real-time Boards • Skill Assessments  
+   Tech: MERN, Socket.IO, Gemini API
 
+🔹 **Ship Routing Optimization (SIH Finalist)**  
+   → Q-Learning + A* • Maritime Route Planner  
+   Tech: Python, NumPy, Pygame
+   
 ---
 
 ## 🛠️ Technical Skills
