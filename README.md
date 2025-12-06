@@ -5,25 +5,26 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/pkrcode/pkrcode/main/assets/coding.gif" />
 
-- I’m currently doing internship in **Infosys Springboard** and working on project **Campus Event Hub**
-- I’m looking to collaborate on **AI + Web + Cloud + VLSI acceleration projects**
-- I’m looking for help with **Hybrid AI-based Personal Assistant**
-- I’m currently learning **Advanced React, Cloud, and Cadence EDA Tools**
-- Ask me about **React, Node.js, Firebase, AI/ML, Verilog**
-- Reach me at **praveenraj786420@gmail.com**
-- All of my projects are available on [GitHub](https://github.com/pkrcode)
-- Know about my experiences: [Resume](https://drive.google.com/file/d/1zFC3GS8n3neOuknl0YpBgw4urOzMuvyQ/view?usp=drive_link)  
+- I’m currently doing an internship at **Infosys Springboard**, working on **Campus Event Hub**.
+- I’m looking to collaborate on **AI + Web + Cloud + VLSI acceleration projects**.
+- I’m looking for help with a **Hybrid AI-based Personal Assistant** project.
+- I’m currently learning **Advanced React, Cloud Computing, and Cadence EDA tools**.
+- Ask me about **React, Node.js, Firebase, AI/ML, and Verilog**.
+- Reach me at **praveenraj786420@gmail.com**.
+- Check out my **[Portfolio](https://praveen-portfolio-d017a.web.app/)**.
+- Know more about my work and experience: **[Resume](https://drive.google.com/file/d/1zFC3GS8n3neOuknl0YpBgw4urOzMuvyQ/view?usp=drive_link)**.
+
 
 ---
 
-## 🏫 Education
+## Education
 **B.Tech in Electronics and Communication Engineering**  
 Indian Institute of Information Technology, Manipur (Nov 2022 – June 2026)  
 CGPA: 7.96 (till 6th semester)
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Edunet Foundation – Internship**
 *Frontend Web Development | Remote, India | August – September 2025*
