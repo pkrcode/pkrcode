@@ -131,15 +131,5 @@ CGPA: 8.09
   </a>
 </p>
 
----
-
-## Support Me
-<p>
-  <a href="https://www.buymeacoffee.com/pkrcode">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-</p>
-
----
 
 ⭐️ From [Praveen Kumar](https://github.com/pkrcode)
