@@ -12,7 +12,7 @@
 - Ask me about **React, Node.js, Firebase, AI/ML, and Verilog**.
 - Reach me at **praveenraj786420@gmail.com**.
 - Check out my **[Portfolio](https://praveen-portfolio-d017a.web.app/)**.
-- Know more about my work and experience: **[Resume](https://drive.google.com/file/d/1zFC3GS8n3neOuknl0YpBgw4urOzMuvyQ/view?usp=drive_link)**.
+- Know more about my work and experience: **[Resume](https://drive.google.com/file/d/15oiJP7F4lOzHkISGgL3TwMq31Kva0K7c/view?usp=drive_link)**.
 
 
 ---
