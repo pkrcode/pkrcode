@@ -1,0 +1,12 @@
+plugins { id 'com.android.application' }
+android {
+    namespace 'com.roommuse3d.app'
+    compileSdk 35
+    defaultConfig {
+        applicationId 'com.roommuse3d.app'
+        minSdk 23
+        targetSdk 35
+        versionCode 1
+        versionName '0.1.0'
+    }
+}
